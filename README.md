@@ -1,4 +1,4 @@
-# Customized Sematext Docker Logagent Container
+# Customized Sematext Logagent Docker Container
 
 | ||
 | --- | --- |
@@ -15,8 +15,8 @@ This repository is used to create via hub.docker.com automatic builds from the o
 - graygelf
 
 
-You can find this container: https://hub.docker.com/r/8ear/logagent
+You can find the container: https://hub.docker.com/r/8ear/logagent
 
 ## Documentation
-original documentation of logagent you can find here:
+Original documentation of logagent you can find here:
 - https://sematext.com/docs/logagent/output-plugin-gelf/
